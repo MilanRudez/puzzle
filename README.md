@@ -59,6 +59,7 @@ The instructions told me to CC my contact person and as the last person I spoke 
 
 ### The only thing I didn't follow and why
 
+I've also created this ReadeMe file for GitHub. The reason behind this is that it's better styled in my opinion, it's easier to share and allowed me to focus on what I needed to deliver. Plus, it's always fun to use a markdown. However, if you would like for me to remove this from GitHub please let me know. 
 
 # How could I have improved on this
 
