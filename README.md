@@ -62,4 +62,10 @@ The instructions told me to CC my contact person and as the last person I spoke 
 
 # How could I have improved on this
 
-I reached out to a few friends of mine asking a hypothetical question of "What would you guys have done if you landed on a page and there was a Facebook pixel on there and a JavaScript file?". Most focused on the JS file and said they would go to the console and would type "window" which was something I didn't think of so I noted it down. Then I asked, "What would you do if you found a hash you needed to decode?" to which a friend asked, "Well, what is the first character of the hash?". He then explained that different hashes have a set rule of starting within a specific range. I noted that down and started reading up on it. 
+I reached out to a few friends of mine asking a hypothetical question of "What would you guys have done if you landed on a page and there was a Facebook pixel on there and a JavaScript file?". Most focused on the JS file and said they would go to the console and would type "window" which was something I didn't think of so I noted it down. This would have made the approach a bit cleaner and faster so I gave it a shot. After a few seconds of scrolling, I knew what I needed to do.
+
+![Window](https://i.imgur.com/vgrxAtJ.png)
+
+![Window.Smartly](https://i.imgur.com/LQz9wp6.png)
+
+Then I asked, "What would you do if you found a hash you needed to decode?" to which a friend asked, "Well, what is the first character of the hash?". He then explained that different hashes have a set rule of starting within a specific range. I noted that down and started reading up on it. 
