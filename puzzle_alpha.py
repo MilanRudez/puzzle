@@ -2,7 +2,7 @@ import requests
 import json
 
 #The URL to be used the base
-baseUrl = "http://fasttrack.herokuapp.com/"
+baseUrl = "http://fasttrack.herokuapp.com"
 
 #The main function to make the calls to the x amount of pages
 def fetch(link):
